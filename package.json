@@ -1,0 +1,14 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Projeto para treino de automação",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Gledson Nascimento",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
